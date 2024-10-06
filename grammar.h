@@ -1,6 +1,6 @@
 // grammar.h File
-// P1 Midterm
-// Bears - Keaton Ruthardt, Simeon Karne, Olamide Iyelolu, Inioluwa Eboda.
+
+
 
 #ifndef GRAMMAR_H
 #define GRAMMAR_H
